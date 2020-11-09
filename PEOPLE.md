@@ -1,1 +1,2 @@
-Haskell Carry
+Haskell Carry.
+Copy Text.
